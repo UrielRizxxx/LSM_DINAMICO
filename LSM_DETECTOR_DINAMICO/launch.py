@@ -1,7 +1,7 @@
 import os
 
 def menu():
-    print("\n📦 LSM_DETECTOR_DINAMICO")
+    print("\n LSM_DETECTOR_DINAMICO")
     print("Calibrar cámara con OpenCV")
     print("  Recolectar secuencias de señas")
     print("  Entrenar modelo LSTM")
