@@ -2,11 +2,11 @@ import os
 
 def menu():
     print("\n📦 LSM_DETECTOR_DINAMICO")
-    print("1️⃣  Calibrar cámara con OpenCV")
-    print("2️⃣  Recolectar secuencias de señas")
-    print("3️⃣  Entrenar modelo LSTM")
-    print("4️⃣  Ejecutar detector en tiempo real")
-    print("5️⃣  Salir")
+    print("Calibrar cámara con OpenCV")
+    print("  Recolectar secuencias de señas")
+    print("  Entrenar modelo LSTM")
+    print("  Ejecutar detector en tiempo real")
+    print("  Salir")
     return input("Selecciona una opción (1-5): ")
 
 while True:
